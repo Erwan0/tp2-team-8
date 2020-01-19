@@ -1,13 +1,13 @@
 # B3 Devops - Projet
 ## Info
 
-**Team 7**
+**Team 8**
 
 **mail:** gianni.scantamburlo@ynov.com <br>
 **github​_username:** XDayonline
 
 **mail:** erwan.guillemin@ynov.com <br>
-**github​_username:** 
+**github​_username:**Erwan0 
 
 ## Prérequis
 
